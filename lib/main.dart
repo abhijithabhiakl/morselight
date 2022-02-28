@@ -88,7 +88,7 @@ class _MyHomePageState extends State<MyHomePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Text > Morse > Vibe'),
+        title: Text('MorseLight'),
       ),
       body: Column(children: <Widget>[
         TextField(
